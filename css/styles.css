@@ -338,6 +338,12 @@ body {
   color: #00ffff;
 }
 
+.category-link {
+  text-decoration: none;
+  color:currentColor;
+  border-radius: 15px;
+}
+
 /* Stats Section */
 .stats {
   padding: 80px 0;
