@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient750" x1="1.8743" x2="9.442" y1="8.5099" y2="4.3742" gradientTransform="matrix(1.4686 0 0 1.4686 -2.0506 -3.3407)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0ff" offset="0"/>
+   <stop stop-color="#de12ff" stop-opacity=".98969" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient752" x1="12.15" x2="3.7875" y1="9.375" y2="2.85" gradientTransform="matrix(1.4326 0 0 1.5056 -2.1212 -3.2296)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cd12cd" offset="0"/>
+   <stop stop-color="#6e20d2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-dashoffset="5.4638" stroke-linejoin="round">
+  <text transform="scale(1.0344 .96676)" x="0.023752756" y="10.49064" fill="url(#linearGradient750)" fill-rule="evenodd" font-family="'Sans Serif Collection'" font-size="13.109px" stroke="#000000" stroke-width=".81391" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:stroke markers fill" xml:space="preserve"><tspan x="0.023752756" y="10.49064" fill="url(#linearGradient750)" fill-rule="evenodd" font-family="'Sans Serif Collection'" font-size="13.109px" stroke="#000000" stroke-width=".81391" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">G</tspan></text>
+  <path d="m8.3796 11.955c-0.4754 0.06656-0.21872 0.03087-0.67409 0.09255-0.38244 0.05621-0.6682 0.08267-0.8298 0.03559l0.00317-0.84254s0.5662-0.08378 0.83672-0.12626c0.50731-0.07961 0.59656-0.10686 0.76869-0.1511 0.44858-0.11529 0.32127-0.08315 0.57522-0.16148 0.26548-0.07833 0.62103-0.26806 0.74802-0.44354 0.17986-0.24853 0.17227-0.44438 0.17227-0.79689v-8.3427h1.5583v8.2604c0 0.80685-0.29434 1.4022-0.88303 1.786-0.5887 0.38384-1.3216 0.55632-2.2754 0.68988z" fill="url(#linearGradient752)" stroke="#000" stroke-linecap="round" stroke-width=".86677" style="paint-order:stroke markers fill" aria-label="J"/>
+ </g>
+</svg>
