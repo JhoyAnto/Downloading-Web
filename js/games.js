@@ -41,6 +41,11 @@ const gamePages = {
   29: "mount_&_blade_ll_bannerlord.html",
   30: "dota_2.html",
   31: "thrive_heavy_lies_the_crown.html",
+  32: "cocoon.html",
+  33: "unravel_2.html",
+  34: "valiant_hearts_the_great_war.html",
+  35: "god_of_war.html",
+  36: "hollow_knight_silksong.html"
 };
 
 // Sample games data
@@ -354,6 +359,56 @@ const gamesData = [
     image: "assets/images/juegos/thrive heavy lies the crown/cover.jpg",
     size: "3.26 GB",
     releaseDate: "2024-01-31",
+  },
+  {
+    id: 32,
+    title: "Cocoon",
+    genre: ["puzzle","adventure"],
+    description:"Jeppe Carlsen, el diseñador de jugabilidad principal que dio vida a LIMBO e INSIDE, presenta ahora COCOON, un juego que te llevará de aventuras a través de mundos dentro de mundos. Domina las mecánicas que te permiten saltar de un mundo a otro para descubrir un misterio cósmico.",
+    rating: 4.4,
+    image: "assets/images/juegos/cocoon/cover.png",
+    size: "686.3 MB",
+    releaseDate: "2024-02-01",
+  },
+  {
+    id: 33,
+    title: "Unravel 2",
+    genre: ["puzzle","adventure"],
+    description:"<strong>Unravel 2</strong> es una estupenda aventura de plataformas vista desde una perspectiva única (o dos). Controla a una pareja de Yarnys, pequeños seres hechos de lana y conectados por una hebra, en cooperativo local o en solitario. Corre, salta y balancéate resolviendo puzles de plataformas, haz crecer la amistad e ilumina un mundo cubierto de sombras.",
+    rating: 3.8,
+    image: "assets/images/juegos/unravel 2/cover.jpeg",
+    size: "3.89 GB",
+    releaseDate: "2024-02-02",
+  },
+  {
+    id: 34,
+    title: "Valiant Hearts The Great War",
+    genre: ["puzzle","adventure"],
+    description:"<strong>Valiant Hearts The Great War</strong> es juego de una aventura 2D que combina puzles, plataformas y momentos de sigilo, ambientada en la primera Guerra Mundial. El videojuego esta inspirado en los cómics europeos donde nos relatara la historia de 5 personajes de diferente nacionalidad en el arduo campo de batalla. Que esperas para bajarlo.",
+    rating: 4.0,
+    image: "assets/images/juegos/valiant hearts the great war/cover.jpg",
+    size: "921 MB",
+    releaseDate: "2024-02-03",
+  },
+  {
+    id: 35,
+    title: "God of War",
+    genre: ["adventure","action","rpg"],
+    description:"Kratos ha dejado atrás su venganza contra los dioses del Olimpo y vive ahora como un hombre en los dominios de los dioses y monstruos nórdicos. En este mundo cruel e implacable debe luchar para sobrevivir… y enseñar a su hijo a hacerlo también. Kratos vuelve a ser padre. Como progenitor y protector de Atreus, un hijo decidido a ganarse el respeto del padre, Kratos debe sobrevivir en un mundo muy peligroso dominando y controlando la ira que tanto lo ha caracterizado.",
+    rating: 4.7,
+    image: "assets/images/juegos/god of war/cover.jpeg",
+    size: "28.5 GB",
+    releaseDate: "2024-02-04",
+  },
+  {
+    id: 36,
+    title: "Hollow Knight Silksong",
+    genre: ["adventure","action"],
+    description:"¡Encarnando a la letal cazadora Hornet, explora un reino de gobernado por la seda y el canto! Tras ser capturada y llevada a un mundo desconocido, prepárate para luchar contra poderosos enemigos y resolver misterios mientras asciendes en un peregrinaje mortal hasta la cima del reino.",
+    rating: 4.5,
+    image: "assets/images/juegos/hollow knight silksong/cover.jpg",
+    size: "1.74 GB",
+    releaseDate: "2024-02-05",
   },
 ]
 
