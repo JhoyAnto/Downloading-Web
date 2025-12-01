@@ -101,10 +101,12 @@ body {
 
 /* Hero Section */
 .hero {
-  padding: 120px 0 80px;
+  padding: 100px 0 80px;
   background: linear-gradient(135deg, rgba(0, 255, 255, 0.1) 0%, rgba(255, 0, 255, 0.1) 100%);
   position: relative;
   overflow: hidden;
+  display: flex;
+  align-items: center;
 }
 
 .hero::before {
@@ -122,9 +124,17 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 4rem;
-  align-items: center;
+  align-items: start;
   position: relative;
   z-index: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.hero-content {
+   align-self: start; /* NUEVA línea - esto mantiene el texto arriba */
+  padding-top: 2rem;
 }
 
 .hero-title {
@@ -153,9 +163,17 @@ body {
   flex-wrap: wrap;
 }
 
+.hero-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
 .hero-image img {
   width: 100%;
-  height: auto;
+  max-height: 500px; /* NUEVA línea - limita la altura */
+  object-fit: cover; /* NUEVA línea - mantiene proporción */
   border-radius: 15px;
   box-shadow: 0 20px 40px rgba(0, 255, 255, 0.2);
 }
@@ -276,6 +294,7 @@ body {
 
 .game-title {
   font-size: 1.3rem;
+  margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   color: #00ffff;
 }
@@ -1096,6 +1115,27 @@ body {
 }
 
 /* Responsive Design */
+@media (max-width: 768px) {
+  .hero {
+    min-height: auto;
+    padding: 100px 0 60px;
+  }
+  
+  .hero-container {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    text-align: center;
+  }
+  
+  .hero-content {
+    align-self: center;
+    padding-top: 0;
+  }
+  
+  .hero-image img {
+    max-height: 400px;
+  }
+}
 @media (max-width: 768px) {
   .hamburger {
     display: flex;
