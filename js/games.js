@@ -217,7 +217,7 @@ const gamesData = [
     description:"Adéntrate en el mundo de Hinako creado por el famoso autor Ryukishi07, con una música hipnótica, que incluye piezas de Akira Yamaoka, y unas imágenes maravillosas en las que transcurre una historia apasionante de duda, arrepentimiento y decisiones ineludibles. ¿Acabará Hinako abrazando la belleza oculta del terror o sucumbirá a la locura que la aguarda más allá?",
     rating: 4.3,
     image: "assets/images/juegos/silent hill f/cover.jpg",
-    size: "41.6 GB | 31.6 GB",
+    size: "41.6 GB",
     releaseDate: "2024-01-17",
   },
   {
@@ -227,7 +227,7 @@ const gamesData = [
     description:"Eres Kyle Crane, y tras haber sido atrapado por el Barón y sufrir sus horribles experimentos durante años, consigues escapar. Pero las secuelas de ese horror permanecen. Estás a un paso de convertirte en un monstruo, ya que tienes ADN zombi aparte de humano. Apenas puedes controlar a la bestia que hay en tu interior, con todos los problemas que eso conlleva. Pero tendrás que aprender a controlarla si quieres vengarte del hombre que te hizo todo esto.",
     rating: 4.0,
     image: "assets/images/juegos/dying light the beast/cover.jpg",
-    size: "39.67 GB",
+    size: "41.94 GB",
     releaseDate: "2024-01-18",
   },
   {
@@ -287,7 +287,7 @@ const gamesData = [
     description:"Es el año 2036 y un cuarto de siglo después de que la guerra nuclear devastara la tierra, unos pocos miles de supervivientes se aferran a la vida bajo las ruinas de Moscú, en los túneles del metro. Han sufrido intoxicaciones, luchado contra bestias mutantes y horrores paranormales y pasado el terror de la guerra civil. Ahora, en el papel de Artyom, debes escapar del metro y liderar una banda de comandos espartanos en un viaje increíble por todo el continente en la Rusia postapocalíptica para empezar una vida nueva en el este.",
     rating: 4.1,
     image: "assets/images/juegos/metro exodus/cover.jpg",
-    size: "66.6 GB | 56.7 GB",
+    size: "66.6 GB",
     releaseDate: "2024-01-24",
   },
   {
@@ -337,7 +337,7 @@ const gamesData = [
     description:"<strong> Mount & Blade II: Bannerlord</strong> es la esperadísima continuación del aclamado simulador de combate medieval y juego de rol Mount & Blade: Warband. Está ambientada 200 años antes y expande el minucioso sistema de combate y el mundo de Calradia. Bombardea fortalezas montañosas con armas de asedio, establece imperios criminales secretos en los callejones oscuros de las ciudades o cabalga hacia batallas caóticas en tu búsqueda del poder.",
     rating: 4.0,
     image: "assets/images/juegos/mount & blade ll bannerlord/cover.jpeg",
-    size: "31.6 GB",
+    size: "59.10 GB",
     releaseDate: "2024-01-29",
   },
   {
