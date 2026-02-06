@@ -67,7 +67,7 @@ const gamesData = [
     description:"La historia de GTA V nos muestra a un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en la que no pueden confiar en nadie. Y mucho menos los unos en los otros.",
     rating: 4.8,
     image: "assets/images/juegos/gta v/cover.jpg",
-    size: "60.1 GB",
+    size: "64.48 GB",
     releaseDate: "2024-01-02",
   },
   {
@@ -407,7 +407,7 @@ const gamesData = [
     description:"¡Encarnando a la letal cazadora Hornet, explora un reino de gobernado por la seda y el canto! Tras ser capturada y llevada a un mundo desconocido, prepárate para luchar contra poderosos enemigos y resolver misterios mientras asciendes en un peregrinaje mortal hasta la cima del reino.",
     rating: 4.5,
     image: "assets/images/juegos/hollow knight silksong/cover.jpg",
-    size: "1.74 GB",
+    size: "1.93 GB",
     releaseDate: "2024-02-05",
   },
 ]
